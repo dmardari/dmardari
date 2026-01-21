@@ -4,7 +4,7 @@
 ---
 
 ## Summary
-Performance-driven IT professional with 15 years of experience developing, testing, and optimizing financial, EdTech, Web, telecom, and blockchain solutions. Expert in Rust and Java, with a focus on performance engineering, system integration, and test automation. Proven ability to identify bottlenecks, optimize database operations and deliver scalable microservices. Experienced in distributed team collaboration and asynchronous communication.
+Performance-driven IT professional with 15 years of experience developing, testing, and optimizing financial, EdTech, Web, telecom, and blockchain solutions. Expert in Ruby, Rust and Java, with a focus on performance engineering, system integration, and test automation. Proven ability to identify bottlenecks, optimize database operations and deliver scalable microservices. Experienced in distributed team collaboration and asynchronous communication.
 
 ---
 
