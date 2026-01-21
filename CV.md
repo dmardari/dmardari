@@ -9,8 +9,8 @@ Performance-driven IT professional with 15 years of experience developing, testi
 ---
 
 ## Key Skills
-- **Programming Languages**: Rust, Java, JavaScript, Python, Go, Scala, C#
-- **Frameworks & Libraries**: Axum, Spring, Hibernate, Serde, sqlx, TestNG, Gatling, Cucumber, Selenium
+- **Programming Languages**: Ruby, Rust, Java, JavaScript, Python, Go, Scala, C#
+- **Frameworks & Libraries**: Rails, Axum, Spring, Hibernate, Serde, sqlx, TestNG, Gatling, Cucumber, Selenium
 - **Test Automation**: Selenium, Cucumber, TestNG, Selenoid, Browserstack, Hamcrest,
 - **Databases & Queuing**: Turso, PostgreSQL, MongoDB, MySQL, Oracle, MS SQL, IBM DB2, Kafka, RabbitMQ, ActiveMQ
 - **Tools & Platforms**: Docker, Kubernetes, Git, Maven, Gradle, Postman, Allure TestOps, JIRA, BrowserStack, Chrome DevTools
@@ -21,8 +21,21 @@ Performance-driven IT professional with 15 years of experience developing, testi
 
 ## Professional Experience
 
+### Mixbook
+**Senior Software Engineer** | Jan 2026 – Present
+- Optimizing data flows to improve system performance and reliability
+- Developing and maintaining API integrations with internal and external services
+- **Technologies:** Ruby, Rails, Git
+
+### R Systems
+**Senior Software Engineer** | Oct 2025 – Dec 2025
+- Implemented several full-stack features (frontend and backend)
+- Fixed bugs and improved application stability
+- Participated in code reviews and team discussions to enhance code quality
+- **Technologies:** Java 8 -> 17, Spring, Gradle, Git, Oracle DB
+
 ### Supertext
-**Performance Engineer** | Apr 2024 – Present (Contract)
+**Performance Engineer** | Apr 2025 – Sep 2025 (Contract)
 - Identified and resolved backend performance bottlenecks for a high-traffic Messenger platform (1M+ daily active users)
 - Developed API and E2E performance test suites using Java and Gatling, improving system reliability
 - **Technologies:** Java 22, Gatling, Gradle, Git
