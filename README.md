@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 # Denis Mardari
 ![Ruby](https://img.shields.io/badge/Ruby-000000?style=flat&logo=ruby&logoColor=red)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/Java-000000?style=flat&logo=openjdk&logoColor=white)
 
 Performance-driven IT professional with 15 years of experience developing, testing, and optimizing financial, EdTech, Web, telecom, and blockchain solutions. Expert in Rust and Java, with a focus on performance engineering, system integration, and test automation. Proven ability to identify bottlenecks, optimize database operations and deliver scalable microservices. Experienced in distributed team collaboration and asynchronous communication.
 
